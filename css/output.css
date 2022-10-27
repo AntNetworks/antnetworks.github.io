@@ -783,6 +783,14 @@ select {
   margin-left: 0.75rem;
 }
 
+.mt-10 {
+  margin-top: 2.5rem;
+}
+
+.mt-3 {
+  margin-top: 0.75rem;
+}
+
 .flex {
   display: flex;
 }
@@ -803,10 +811,6 @@ select {
   height: 1.5rem;
 }
 
-.h-7 {
-  height: 1.75rem;
-}
-
 .w-1\/2 {
   width: 50%;
 }
@@ -817,10 +821,6 @@ select {
 
 .w-6 {
   width: 1.5rem;
-}
-
-.w-7 {
-  width: 1.75rem;
 }
 
 .max-w-7xl {
@@ -894,14 +894,14 @@ select {
   line-height: 1.5rem;
 }
 
-.text-sm {
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-}
-
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
+}
+
+.text-sm {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
 }
 
 .font-medium {
